@@ -2,3 +2,5 @@
 
 "delete the not found page"
 
+"add a toggle for dark and light theme"
+
